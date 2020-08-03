@@ -4,6 +4,9 @@
     #header {
         display: block;
     }
+    #image{
+        width: 100%;
+    }    
     
 }
 
