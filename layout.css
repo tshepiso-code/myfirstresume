@@ -1,0 +1,62 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    color: slateblue;
+    background: plum ;
+}
+#dip{
+    margin-top: 0px;
+}
+#edu1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 4fr;
+}
+#head{
+    font-weight: bold;
+}
+svg{
+    height: 1en;
+    margin-left: 40px;
+}
+#left-mrgn{
+    margin-left: 40px;
+    font-weight: bold;
+}
+.box{
+    height: 20px;
+    width: 20px;
+    background: black;
+}
+#image{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    border-radius: 50%;
+    padding: 5px;
+}
+#name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 40px;
+}
+#underline{
+    width: 680px;
+    height: 7px;
+    background: teal;
+    margin-top: 20px;
+}
+#edu{
+    background: plum;
+    padding: 10px;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+}
