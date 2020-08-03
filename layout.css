@@ -29,12 +29,12 @@ svg{
     background: black;
 }
 #image{
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 30px;
-    border-radius: 50%;
+    border-radius: 5%;
     padding: 5px;
 }
 #name{
