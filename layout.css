@@ -29,11 +29,8 @@ svg{
     background: black;
 }
 #image{
-    height: 80px;
-    width: 80px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 30px;
+    height: 100px;
+    width: 100px;
     border-radius: 5%;
     padding: 5px;
 }
